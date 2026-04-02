@@ -2,6 +2,8 @@
 
 [moonlight theme](https://github.com/atomiks/moonlight-vscode-theme) for neovim.
 
+<img width="1488" height="1622" alt="image" src="https://github.com/user-attachments/assets/3b617774-d0bd-4735-9bf7-6831916e56b3" />
+
 # 📦 Installation
 [lazy.nvim](https://github.com/folke/lazy.nvim)
 ```lua
