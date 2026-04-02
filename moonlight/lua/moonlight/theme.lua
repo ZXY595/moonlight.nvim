@@ -247,7 +247,7 @@ theme.set_highlights = function()
   hl(0, "@lsp.mod.mutable", { fg = c.blue3, bg = 'NONE', underline=true, })
   hl(0, "@lsp.type.property", { link = 'TSProperty' })
   hl(0, "@lsp.type.builtinType", { link = 'TSTypeBuiltin' })
-  hl(0, "@lsp.type.interface", { fg = c.purple2, bg = 'NONE', bold=true, })
+  hl(0, "@lsp.type.interface", { fg = c.pink, bg = 'NONE', bold=true, })
   hl(0, "@lsp.type.macro", { link = 'Macro' })
   hl(0, "@lsp.mod.unsafe", { link = 'Error' })
 

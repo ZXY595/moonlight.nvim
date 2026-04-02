@@ -333,7 +333,7 @@ LspSignatureActiveParameter = "- #252C48 b"
 "@lsp.mod.mutable" = "blue3 - u"
 "@lsp.type.property" = "link:TSProperty"
 "@lsp.type.builtinType" = "link:TSTypeBuiltin"
-"@lsp.type.interface" = "purple2 - b"
+"@lsp.type.interface" = "pink - b"
 "@lsp.type.macro" = "link:Macro"
 "@lsp.mod.unsafe" = "link:Error"
 
