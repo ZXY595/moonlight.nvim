@@ -379,3 +379,12 @@ BlinkCmpSignatureHelpBorder = "border_highlight bg_float"
 # CmpItemKindDefault = "fg_dark"
 # CmpItemKindTabNine = "teal"
 # CmpItemMenu = "comment"
+
+[Rainbow]
+RainbowCyan = "cyan"
+RainbowBlue = "blue"
+RainbowViolet = "purple"
+RainbowRed = "red"
+RainbowOrange = "orange"
+RainbowYellow = "yellow"
+RainbowGreen = "green"

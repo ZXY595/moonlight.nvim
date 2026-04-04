@@ -278,6 +278,15 @@ theme.set_highlights = function()
   hl(0, "BlinkCmpMenuBorder", { fg = c.border_highlight, bg = c.bg_float })
   hl(0, "BlinkCmpSignatureHelp", { fg = c.fg, bg = c.bg_float })
   hl(0, "BlinkCmpSignatureHelpBorder", { fg = c.border_highlight, bg = c.bg_float })
+
+  -- Rainbow
+  hl(0, "RainbowCyan", { fg = c.cyan, bg = 'NONE' })
+  hl(0, "RainbowBlue", { fg = c.blue, bg = 'NONE' })
+  hl(0, "RainbowViolet", { fg = c.purple, bg = 'NONE' })
+  hl(0, "RainbowRed", { fg = c.red, bg = 'NONE' })
+  hl(0, "RainbowOrange", { fg = c.orange, bg = 'NONE' })
+  hl(0, "RainbowYellow", { fg = c.yellow, bg = 'NONE' })
+  hl(0, "RainbowGreen", { fg = c.green, bg = 'NONE' })
 end
 
 return theme
