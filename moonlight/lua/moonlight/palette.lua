@@ -44,7 +44,6 @@ local colors = {
   bg_visual = "#2C3961",
   bg_search = "#3d59a1",
   border = "#2ac3de",
-  border_highlight = "#28A3BD",
   error = "#FF5370",
   todo = "#7aa2f7",
   warning = "#FFC777",

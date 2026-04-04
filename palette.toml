@@ -52,7 +52,6 @@ bg_visual = "#2C3961"
 bg_search = "#3d59a1"  # blue0
 
 border = "#2ac3de"  # blue1
-border_highlight = "#28A3BD"
 
 error = "#FF5370"  # red1
 todo = "#7aa2f7"  # blue
@@ -114,8 +113,8 @@ FoldColumn = "comment bg"
 LineNr = "comment"
 LineNrAbove = "link:LineNr"
 LineNrBelow = "link:LineNr"
-FloatBorder = "border_highlight bg_float"
-FloatTitle = "border_highlight bg_float"
+FloatBorder = "border bg_float"
+FloatTitle = "border bg_float"
 Whitespace = "fg_gutter"
 VertSplit = "border"
 WinSeparator = "border - b"
@@ -326,7 +325,7 @@ LspReferenceText = "- fg_gutter"
 LspReferenceWrite = "- fg_gutter"
 LspCodeLens = "comment"
 LspInlayHint = "dark3 #23273D"
-LspInfoBorder = "border_highlight bg_float"
+LspInfoBorder = "border bg_float"
 LspSignatureActiveParameter = "- #252C48 b"
 
 [SemanticTokens]
@@ -338,7 +337,7 @@ LspSignatureActiveParameter = "- #252C48 b"
 "@lsp.mod.unsafe" = "link:Error"
 
 [Telescope]
-TelescopeBorder = "border_highlight bg_float"
+TelescopeBorder = "border bg_float"
 TelescopeNormal = "fg bg_float"
 TelescopePromptBorder = "orange bg_float"
 TelescopePromptTitle = "orange bg_float"
@@ -350,7 +349,7 @@ StatusLineNC = "fg_gutter bg_statusline"
 
 [Blink]
 BlinkCmpDoc = "fg bg_float"
-BlinkCmpDocBorder = "border_highlight bg_float"
+BlinkCmpDocBorder = "border bg_float"
 BlinkCmpGhostText = "terminal_black"
 BlinkCmpKindCodeium = "teal"
 BlinkCmpKindCopilot = "teal"
@@ -361,13 +360,13 @@ BlinkCmpLabel = "fg"
 BlinkCmpLabelDeprecated = "fg_gutter - s"
 BlinkCmpLabelMatch = "blue1"
 BlinkCmpMenu = "fg bg_float"
-BlinkCmpMenuBorder = "border_highlight bg_float"
+BlinkCmpMenuBorder = "border bg_float"
 BlinkCmpSignatureHelp = "fg bg_float"
-BlinkCmpSignatureHelpBorder = "border_highlight bg_float"
+BlinkCmpSignatureHelpBorder = "border bg_float"
 
 # [Cmp]
 # CmpDocumentation = "fg bg_float"
-# CmpDocumentationBorder = "border_highlight bg_float"
+# CmpDocumentationBorder = "border bg_float"
 # CmpGhostText = "terminal_black"
 # CmpItemAbbr = "fg"
 # CmpItemAbbrDeprecated = "fg_gutter - s"
@@ -382,7 +381,7 @@ BlinkCmpSignatureHelpBorder = "border_highlight bg_float"
 
 [Rainbow]
 RainbowCyan = "cyan"
-RainbowBlue = "blue"
+RainbowBlue = "blue3"
 RainbowViolet = "purple"
 RainbowRed = "red"
 RainbowOrange = "orange"
