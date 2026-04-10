@@ -330,6 +330,7 @@ LspSignatureActiveParameter = "- #252C48 b"
 
 [SemanticTokens]
 "@lsp.mod.mutable" = "blue3 - u"
+"@lsp.type.typeAlias" = "link:Type"
 "@lsp.type.property" = "link:TSProperty"
 "@lsp.type.builtinType" = "link:TSTypeBuiltin"
 "@lsp.type.interface" = "pink - b"

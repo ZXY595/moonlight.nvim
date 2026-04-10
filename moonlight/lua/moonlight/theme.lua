@@ -245,6 +245,7 @@ theme.set_highlights = function()
 
   -- SemanticTokens
   hl(0, "@lsp.mod.mutable", { fg = c.blue3, bg = 'NONE', underline=true, })
+  hl(0, "@lsp.type.typeAlias", { link = 'Type' })
   hl(0, "@lsp.type.property", { link = 'TSProperty' })
   hl(0, "@lsp.type.builtinType", { link = 'TSTypeBuiltin' })
   hl(0, "@lsp.type.interface", { fg = c.pink, bg = 'NONE', bold=true, })
